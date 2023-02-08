@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\bin\Debug\net6.0\Ezhednevnick.exe
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\bin\Debug\net6.0\Ezhednevnick.deps.json
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\bin\Debug\net6.0\Ezhednevnick.runtimeconfig.json
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\bin\Debug\net6.0\Ezhednevnick.dll
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\bin\Debug\net6.0\Ezhednevnick.pdb
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\obj\Debug\net6.0\Ezhednevnick.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\obj\Debug\net6.0\Ezhednevnick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\obj\Debug\net6.0\Ezhednevnick.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\obj\Debug\net6.0\Ezhednevnick.AssemblyInfo.cs
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\obj\Debug\net6.0\Ezhednevnick.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\obj\Debug\net6.0\Ezhednevnick.dll
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\obj\Debug\net6.0\refint\Ezhednevnick.dll
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\obj\Debug\net6.0\Ezhednevnick.pdb
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\obj\Debug\net6.0\Ezhednevnick.genruntimeconfig.cache
+C:\Users\user\source\repos\Ezhednevnick\Ezhednevnick\obj\Debug\net6.0\ref\Ezhednevnick.dll
